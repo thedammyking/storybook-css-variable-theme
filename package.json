@@ -1,17 +1,17 @@
 {
-  "name": "storybook-addon-kit",
+  "name": "storybook-css-variable-theming",
   "version": "0.0.0",
-  "description": "everything you need to build a Storybook addon",
+  "description": "Switching CSS Variable-Based Themes for Your UI Components in Storybook",
   "keywords": [
-    "storybook-addons"
+    "storybook addons", "css variable", "css variable theme", "css variable theming", "storybook theming", "storybook theme", "storybook css variable theme", "storybook css variable theming", "storybook css variable", "storybook-addons"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/storybookjs/storybook-addon-kit"
+    "url": "https://github.com/thedammyking/storybook-css-variable-theming"
   },
   "type": "module",
   "license": "MIT",
-  "author": "package-author",
+  "author": "Oluwadamilola Babalola <kingdammie@gmail.com>",
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
@@ -34,7 +34,6 @@
     "*.d.ts"
   ],
   "scripts": {
-    "postinstall": "node scripts/welcome.js",
     "build": "tsup",
     "build:watch": "npm run build -- --watch",
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -97,9 +96,9 @@
     ]
   },
   "storybook": {
-    "displayName": "Addon Kit",
+    "displayName": "CSS Variable Theming",
     "supportedFrameworks": [
-      "supported-frameworks"
+      "react"
     ],
     "icon": "https://user-images.githubusercontent.com/321738/63501763-88dbf600-c4cc-11e9-96cd-94adadc2fd72.png"
   }
