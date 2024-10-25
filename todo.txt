@@ -1,0 +1,9 @@
+To add
+[ ] Eslint
+[ ] husky
+[ ] commit lint
+[ ] semantic release
+[ ] workflow
+  [ ] ci
+  [ ] semantic
+  [ ] mergify
