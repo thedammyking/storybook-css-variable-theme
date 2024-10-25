@@ -3,7 +3,19 @@
   "version": "0.0.0",
   "description": "Switching CSS Variable-Based Themes for Your UI Components in Storybook",
   "keywords": [
-    "storybook addons", "css variable", "css variable theme", "css variable theming", "storybook theming", "storybook theme", "storybook css variable theme", "storybook css variable theming", "storybook css variable", "storybook-addons"
+    "storybook addons",
+    "css variable",
+    "css variable theme",
+    "css variable theming",
+    "storybook theming",
+    "storybook theme",
+    "storybook css variable theme",
+    "storybook css variable theming",
+    "storybook css variable",
+    "storybook-addons",
+    "theme",
+    "theming",
+    "css"
   ],
   "repository": {
     "type": "git",
